@@ -1,0 +1,251 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 60px;
+    background-color: #fff;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+}
+.menu{
+    margin-left: 20px;
+}
+.logo{
+    margin-left: 590px;
+}
+.test1{
+    text-decoration: none;
+    color: rgb(146, 144, 144);
+    margin-left: 370px;
+}
+.location{
+    margin-left: 20px;
+}
+
+/* ----------Firstpage------------ */
+
+.firstpage{
+    display: flex;
+    height: 50%;
+}
+.bg{
+    height: 100px;
+    background-image: url(firstimage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 500px 0px 0px 0px;
+}
+.test2{
+    color: #fff;
+    margin: -540px 0px 0px 40px;
+    font-weight: bold;
+    font-size: 50px;  
+}
+.test3{
+    color: #fff;
+    font-weight: lighter;
+    font-size: 20px;
+    margin: 10px 0px 30px 40px;
+}
+.button1{
+    color: #fff;
+    text-decoration: none;
+    margin: 100px 0px 0px 50px;
+    border: #fff;
+    border-style: ridge;
+    padding: 5px;
+}
+
+/* --------Secondpage-------- */
+
+.test4{
+    margin: 450px 0px 30px 70px;
+}
+.imageset1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0px 70px;
+}
+.imageset1 img{
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+}
+
+/* --------thirdpage----------- */
+
+.test5{
+    margin: 100px 0px 30px 70px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.imageset2{
+    display: flex;
+    margin: 0px 50px;
+}
+.imageset2 img{
+    margin: 0px 5px;
+    height: 400px;
+    width: 400px;
+}
+
+/* ----------fourthpage------------- */
+
+.test6{
+    margin: 100px 0px 0px 70px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.fourthpage img{
+    width: 90%;
+    height: 50%;
+    margin: 20px 0px 0px 50px;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.right{
+    margin: 190px 0px 0px 0px;
+    width: 50%;
+    float: right;
+}
+.para1{
+    color: #707070;
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    font-size: medium;
+}
+.para2{
+    color: #000;
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    font-size: small;
+}
+.para3{
+    color: #707070;
+    text-decoration: none;
+}
+.para3 h1{
+    font-size: medium;
+    margin: 230px 0px 0px 20px;
+}
+
+/* --------fifthpage------------ */
+
+.fifthpage{
+    display: flex;
+    width: 100%;
+}
+.fifthpage img{
+    width: 410px;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.img4{
+    /* margin-left: 70px;
+    margin-right: 20px; */
+    margin: 0px 30px 0px 30px;
+}
+.test7{
+    color: #707070;
+    font-size: small;
+    margin: 10px 0px 0px 80px;
+}
+.test8{
+    color: #707070;
+    font-size: small;
+    margin: 10px 0px 0px 50px;
+}
+.test9{
+    font-family: ff-zwo-web, arial, sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    text-align: center;
+    margin: 10px 0px 0px 30px;
+}
+.test10{
+    font-family: ff-zwo-web, arial, sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size:8px;
+    text-align: start;
+    margin: 10px 0px 0px 0px;
+}
+.test11{
+    font-family: ff-zwo-web, arial, sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    margin: 10px 0px 0px 0px;
+}
+.next1{
+    text-decoration: none;
+    color: #707070;
+    font-size: 20px;
+    margin: 60px 0px 0px 70px;
+}
+.next2{
+    text-decoration: none;
+    color: #707070;
+    font-size: 20px;
+    margin: 30px 0px 0px 60px;
+}
+.next3{
+    text-decoration: none;
+    color: #707070;
+    font-size: 20px;
+    margin: 80px 0px 50px 70px;
+}
+hr{
+    margin: 30px 0px 0px 500px ;
+    width: 20%;
+}
+.news{
+    text-decoration: none;
+    color: #707070;
+    margin: 0px 0px 100px 570px;
+    font-size: medium;
+}
+.fuelhead{
+    background-color: #c8cdd2;
+    height: 500px;
+}
+.fuel{
+    margin: 100px 0px 0px 400px;
+    padding-top: 100px;
+}
+.petrol{
+    margin: -300px 0px 100px 390px;
+}
+.end{
+    background-color: #000000;
+    height: 200px;
+}
+.endlogo{
+    margin: -170px 0px 0px 550px;
+}
+.lo{
+   margin-left: 50px;
+}
+.cr{
+    color: #707070;
+    font-size: 15px;
+    margin: 10px 0px 0px -40px;
+}
+.details{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.contact{
+    text-decoration: none;
+    color: #707070;
+    font-weight: lighter;
+    font-size: 11px;
+    margin-left: 30px;
+}
