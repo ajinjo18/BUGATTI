@@ -23,6 +23,9 @@ header{
 .location{
     margin-left: 20px;
 }
+.button1:hover {
+    background-color: #fff;
+}
 
 /* ----------Firstpage------------ */
 
@@ -50,11 +53,12 @@ header{
     margin: 10px 0px 30px 40px;
 }
 .button1{
-    color: #fff;
+    color: #000;
     text-decoration: none;
     margin: 100px 0px 0px 50px;
     border: #fff;
-    border-style: ridge;
+    border-style: solid;
+    border-width: 1px;
     padding: 5px;
 }
 
